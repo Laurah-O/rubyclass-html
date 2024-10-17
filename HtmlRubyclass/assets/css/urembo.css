@@ -1,0 +1,19 @@
+h2 {
+    color: #dc0ad8;
+    font-size: 1.5em;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+th,td {
+    border: 2px solid #a8e60a;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
